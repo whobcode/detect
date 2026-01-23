@@ -1,0 +1,8 @@
+name = "deception-analyzer-worker"
+main = "src/index.ts"
+compatibility_date = "2026-01-23"
+
+[vars]
+ACCOUNT_ID = ""
+GATEWAY_ID = ""
+HF_API_TOKEN = ""

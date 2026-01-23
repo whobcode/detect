@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.env
+.env.*
+wrangler.toml.local
+/dist
+/apps/web/dist
+/apps/worker/dist
+/ml/fine_tuning/__pycache__
+/ml/fine_tuning/.venv
